@@ -1,0 +1,42 @@
+.content {
+	text-align: center;
+	color: black;
+}
+
+.item img {
+	width : 400px;
+	height: 400px;
+}
+
+.name {
+	color: black;
+	border-bottom-style: solid;
+	border-bottom-color: orange;
+	border-bottom-width: 2px;
+	padding-bottom: 10px;
+}
+
+.details {
+	color: black;
+}
+
+.price {
+	color: #1DA1F3;
+}
+
+.cart {
+	font-size: 15px;
+}
+
+.lab {
+	padding-top: 10px;
+}
+.lab span {
+	font-size: 20px;
+}
+
+.grey {
+  background-color: #84a886 !important;
+  pointer-events: none;
+  cursor: default;
+}

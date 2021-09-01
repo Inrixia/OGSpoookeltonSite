@@ -1,0 +1,35 @@
+a:hover {
+	text-decoration: none !important;
+}
+
+.item {
+	padding-bottom: 350px;
+	width: 40vw;
+	height: 300px;
+	text-align: center;
+	line-height: 1px;
+}
+
+.page-header {
+  padding-left: 150px;
+  width: 700px;
+}
+
+.item img {
+	width: 200px;
+	height: 200px;
+}
+
+.stock {
+	color: orange;
+}
+
+.container-fluid {
+	margin-left: 150px;
+}
+
+.grey {
+  background-color: #db6b6d !important;
+  pointer-events: none;
+  cursor: default;
+}

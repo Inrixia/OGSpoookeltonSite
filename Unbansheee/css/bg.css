@@ -1,0 +1,8 @@
+html { 
+    background: url(img/back.jpg) no-repeat center center fixed; 
+    background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-backgound-size:100% 100%; /* early css3 implementation */
+    -webkit-background-size:cover;
+}
